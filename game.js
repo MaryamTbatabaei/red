@@ -14,6 +14,8 @@ KEY_CODES = {
   72: 'h',
   77: 'm',
   80: 'p'
+  81:'maryam'
+  82:'amirhossein'
 }
 
 KEY_STATUS = { keyDown:false };
